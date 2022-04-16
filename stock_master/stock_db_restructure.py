@@ -91,3 +91,5 @@ else:
 	print("하나 결석했습니다.")
     
 table_list1 = table_list[table_list['name'].str.contains('C')]
+
+# test git
