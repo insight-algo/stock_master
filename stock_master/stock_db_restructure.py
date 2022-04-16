@@ -92,4 +92,4 @@ else:
     
 table_list1 = table_list[table_list['name'].str.contains('C')]
 
-# test git
+# git commit 확인
